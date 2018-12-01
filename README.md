@@ -1,2 +1,2 @@
 # kinetic
-Repository for Kinetic Challenge Application
+Repository for Princeton Kinetic Challenge Application
